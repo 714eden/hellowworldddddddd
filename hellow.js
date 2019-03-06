@@ -1,0 +1,1 @@
+console.log("kono 杜美心 yu me ga a ru")
